@@ -6,3 +6,6 @@ external_node_modules=["lmdb-store"]
 from = "/"
 to="/.netlify/functions/store"
 status= 200
+
+[build]
+command = "./stuff.sh"
