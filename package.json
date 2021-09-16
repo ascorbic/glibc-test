@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lmdb-store": "^1.6.7"
+    "lmdb-store": "^1.6.8"
   }
 }
